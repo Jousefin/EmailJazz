@@ -272,4 +272,12 @@ a[x-apple-data-detectors] {
   /* if class defined with *[class~=] then you can combine names i.e: class="px20 center"*/ }
 
 /* RESPONSIVE CLASSES */
+@media only screen and (max-width: 480px) {
+  .patito {
+    width: 140px !important;
+    height: auto !important;
+    margin: 0 auto !important; }
+  .patito2 {
+    padding-bottom: 15px !important; } }
+
 /* RESPONSIVE CLASSES */

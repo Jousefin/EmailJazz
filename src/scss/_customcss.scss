@@ -1,5 +1,11 @@
-@media only screen and (max-width: 414px) {}
-@media only screen and (max-width: 375px) {}
-@media only screen and (max-width: 360px) {}
-@media only screen and (max-width: 320px) {}
+@media only screen and (max-width: 480px) {
+	.patito{
+		width: 140px !important;
+		height: auto !important;
+		margin: 0 auto !important;
+	}
+	.patito2{
+		padding-bottom: 15px !important;
+	}
+}
 /* RESPONSIVE CLASSES */
