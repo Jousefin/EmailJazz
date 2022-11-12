@@ -278,6 +278,8 @@ a[x-apple-data-detectors] {
     height: auto !important;
     margin: 0 auto !important; }
   .patito2 {
-    padding-bottom: 15px !important; } }
+    padding-bottom: 15px !important; }
+  .sm_padding {
+    padding: 15px 0 !important; } }
 
 /* RESPONSIVE CLASSES */
